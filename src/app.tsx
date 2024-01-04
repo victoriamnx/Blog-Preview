@@ -1,3 +1,6 @@
+import Illustration from './components/illustration.svg'
+import Icon from './components/userpic.png'
+
 function App() {
   return (
     <div className="w-screen h-screen flex flex-col items-center justify-center bg-[#F4D04E] overflow-auto">
@@ -6,7 +9,7 @@ function App() {
         className="rounded-[1.25rem] p-6	bg-white border border-black m-8"
       >
         <img
-          src="./src/components/illustration.svg"
+          src={Illustration}
           alt="Illustration"
           className="mb-[1.5rem] w-full"
         />
@@ -30,7 +33,7 @@ function App() {
           </div>
           <div className="flex items-center gap-3 mt-[0.7rem]">
             <div id="icon">
-              <img src="./src/components/userpic.png" alt="User Icon" />
+              <img src={Icon} alt="User Icon" />
             </div>
             <h1 className="font-figtree font-extrabold text-sm leading-[1.3125rem]">
               Greg Hooper
