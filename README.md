@@ -29,16 +29,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 
 - Flexbox
-- CSS Grid
+- Javascript
+- Tailwind CSS
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-
-<img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px"></a>
-<img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="HTML5" height="40" style="vertical-align:down; margin:4px"></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="vertical-align:down; margin:4px">
 
 ### What I learned
 
