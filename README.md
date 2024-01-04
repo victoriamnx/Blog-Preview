@@ -1,30 +1,55 @@
-# React + TypeScript + Vite
+# Frontend Mentor - Blog preview card solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Screenshot
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Links
+
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Blog Preview site](https://victoriamnx.github.io/Blog-Preview/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+<img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px"></a>
+<img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="HTML5" height="40" style="vertical-align:down; margin:4px"></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="vertical-align:down; margin:4px">
+
+### What I learned
+
+I learned how to use tailwind better and how to make a truly responsive website
+
+### Useful resources
+
+- [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples) - This helped me to build a pretty box shadow
+
+## Author
+
+- Name - Victória Nogueira
+- [Profile on Frontend Mentor Site](https://www.frontendmentor.io/profile/victoriamnx)
+- [GitHub Profile](https://github.com/victoriamnx)
+
