@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Result](#result)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,9 +15,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Result
 
-
+![image](https://github.com/victoriamnx/Blog-Preview/assets/96449803/ecbf830b-a8c4-46eb-8e95-be859fc69732)
+![image](https://github.com/victoriamnx/Blog-Preview/assets/96449803/4781762a-83f2-4b27-b277-4c12bffe3cfe)
 
 ### Links
 
